@@ -1,0 +1,1 @@
+query_id=AAGzZOgsAwAAALNk6Czw0F5w&user=%7B%22id%22%3A7195878579%2C%22first_name%22%3A%22Aedyn%20Tai%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22aedyntai%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1721582055&hash=7f9cacf63f41803b3b7d5e4a74f4ace3a9a0bd0e980b793ec9b5e67d4ce218bb
